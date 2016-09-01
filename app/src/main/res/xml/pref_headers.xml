@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+    <header
+        android:fragment="com.augmentis.ayp.lab3.PrefActivity$ColorPrefFragment"
+        android:title="@string/pref_color"/>
+
+</preference-headers>
